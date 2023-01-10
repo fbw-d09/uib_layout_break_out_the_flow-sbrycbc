@@ -11,7 +11,7 @@ html, body {
     background-color: orange;
     margin: auto;
     text-align: center;
-    top: 7px;
+    
 }
 
 .box1 {
@@ -31,7 +31,7 @@ html, body {
     position: absolute;
     bottom: 15px;
     left: 15px;
-    z-index: 1;
+    z-index: 99;
 
 }
 
